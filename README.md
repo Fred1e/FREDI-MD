@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗕𝗢𝗧;THIS+BOT+MADE+BY+𝙳𝚍𝚞𝚕𝚊+%26+JIFI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=FREDI+MD;THIS+BOT+MADE+BY+FREDIE+%26+JIFI)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
 <div align="center">
 
-## Black Panther MD
+## FREDI MD
 
 > <a href="https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -75,7 +75,7 @@ global.APIKeys = {
 }
   
 global.owner = ["94741671668"]
-global.ownername = ["Black Panther MD"]
+global.ownername = ["Fredi MD"]
 ```
 </details>
 
